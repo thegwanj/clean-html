@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+
+
+/* Stylings for header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +44,24 @@ header div ul li {
     margin-left: 25px;
 }
 
+
+
+/* Styling for links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+
+
+/* Paragraph styling */
 p {
     font-size: 16px;
 }
 
+
+
+/* Banner styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +71,9 @@ p {
     background-position: center;
 }
 
+
+
+/* Styling for content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -188,6 +203,9 @@ p {
     font-size: 36px;
 }
 
+
+
+/* Footer styling */
 .footer {
     padding: 30px;
     clear: both;
